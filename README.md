@@ -1,2 +1,2 @@
-# brute-force
+# brute-force TI-A Pagi
 TKPPL
